@@ -96,11 +96,11 @@ public class Main extends Application {
     @Override
     public void start(Stage stage) {
         Scene scene = new Scene(new Group());
-        stage.setTitle("Organization Procedure Pattern");
+        stage.setTitle("Counsul");
         stage.setWidth(960);
         stage.setHeight(720);
  
-        final Label label = new Label("10Core Empathy Matrix, Train Trolley Problem Artificial Neural Network, JavaFX Complex Typography");
+        final Label label = new Label("10Core Empathy Matrix, FinTech Artificial Neural Network, JavaFX Complex Typography");
         label.setFont(new Font("Arial", 20));
  
         table.setEditable(true);
