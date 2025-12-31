@@ -40,7 +40,7 @@ public class Main extends JFrame {
         JScrollPane scrollPane = new JScrollPane(table);
         
         // 3. Paragraph/Bottom UI
-        paragraph = new JTextArea("The overall allocation of resources could be conceived as a long-term survival train trolley problem...");
+        paragraph = new JTextArea("Resource-pertinent.");
         paragraph.setLineWrap(true);
         paragraph.setWrapStyleWord(true);
         paragraph.setEditable(false);
